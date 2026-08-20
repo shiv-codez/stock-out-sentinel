@@ -1,0 +1,9 @@
+clinic_id,clinic_name,country,current_stock,stock_capacity,stock_pct,moving_avg_stock,daily_trend_units,days_until_stockout,risk_level,beds_available,beds_total,staff_present,staff_total,recent_avg_footfall
+IN-03,Deoria PHC,India,400.0,1200,33.3,645.0,-72.17,5.5,Critical,25,25,9,10,78.8
+ZA-02,Soweto PHC,South Africa,364.8,1050,34.7,576.9,-60.31,6.0,Critical,14,21,9,9,79.9
+IN-01,Sitapur PHC,India,269.0,1000,26.9,333.2,-30.4,8.8,Warning,19,20,8,8,43.8
+BR-01,Vila Nova PHC,Brazil,250.6,900,27.8,302.8,-25.72,9.7,Warning,9,18,7,7,44.1
+BR-02,Santa Fe PHC,Brazil,938.8,1100,85.3,938.3,-1.04,900.6,Healthy,16,22,9,9,46.5
+IN-02,Rampur PHC,India,684.9,800,85.6,678.0,0.28,,Healthy,14,15,4,6,50.1
+BR-03,Boa Vista PHC,Brazil,629.1,750,83.9,636.2,0.08,,Healthy,10,14,5,6,46.9
+ZA-01,Khayelitsha PHC,South Africa,817.0,950,86.0,804.6,0.98,,Healthy,13,19,7,8,45.0
